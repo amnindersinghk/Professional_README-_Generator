@@ -10,6 +10,7 @@ Step 3
 Created generate Markdown function for data in README.
 Step 4
 Added license badge and tested in terminal by running node index.js
+ github link - https://github.com/amnindersinghk/Professional_README-_Generator/tree/main
 
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
