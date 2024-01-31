@@ -4,12 +4,17 @@ The goal of this assignment was to create a profeesional README generator to hel
 Steps Taken
 Step 1
 Installed inquireier package by running npm install inquirer.
+
 Step 2
 Created questions aray and function to generate and write README file.
+
 Step 3
 Created generate Markdown function for data in README.
+
 Step 4
 Added license badge and tested in terminal by running node index.js
+
+
  github link - https://github.com/amnindersinghk/Professional_README-_Generator/tree/main
 
 
